@@ -1,0 +1,24 @@
+{
+  "name": "hibey_video-call-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalmohan542/hibey_video-call-WebApp.git"
+  },
+  "author": "Amal Mohan K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalmohan542/hibey_video-call-WebApp/issues"
+  },
+  "homepage": "https://github.com/amalmohan542/hibey_video-call-WebApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
